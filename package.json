@@ -1,0 +1,14 @@
+{
+  "name": "expressworks",
+  "version": "1.0.0",
+  "description": "learning node's express framework",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thirumalaa Srinivas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.7"
+  }
+}
