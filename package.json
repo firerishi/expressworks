@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.10.1",
-    "express": "^4.10.7"
+    "express": "^4.10.7",
+    "stylus": "^0.49.3"
   },
   "devDependencies": {
     "jade": "^1.8.2"
